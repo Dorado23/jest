@@ -1,0 +1,25 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "TESNING ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dorado23/jest.git"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "Dorine Andreasson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dorado23/jest/issues"
+  },
+  "homepage": "https://github.com/Dorado23/jest#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
