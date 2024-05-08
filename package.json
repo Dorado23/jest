@@ -1,17 +1,19 @@
 {
   "name": "jest",
   "version": "1.0.0",
-  "description": "TESNING ",
+  "description": "Jest demo ",
   "main": "index.js",
   "scripts": {
-    "test": "npm run"
+    "test": "vitest"
+
   },
+
   "repository": {
-    "type": "git",
+    "type": "tdd",
     "url": "git+https://github.com/Dorado23/jest.git"
   },
   "keywords": [
-    "jest"
+    "vitest"
   ],
   "author": "Dorine Andreasson",
   "license": "ISC",
@@ -20,6 +22,6 @@
   },
   "homepage": "https://github.com/Dorado23/jest#readme",
   "devDependencies": {
-    "jest": "^29.7.0"
+    "vitest": "^29.7.0"
   }
 }
